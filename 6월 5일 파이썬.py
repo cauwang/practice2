@@ -1,7 +1,5 @@
 #20191950 왕성민
-print("wangseongmin")
-print("real?")
-print("이게 되나?")
+print("마지막으로 연동되는지 확인")
 class Vector2D:
     def __init__(self,x,y):
         self.x=x
